@@ -5,7 +5,7 @@ const Links = [
     {href:"/", text:"Jarvis",key:"1"},
     {href:"/matpat", text:"matpat",key:"2"},
     {href:"/shadow", text:"shadow",key:"3"},
-    {href:"/bonus", text:"bónus",key:"4"},
+    {href:"/blom", text:"Blóm",key:"4"},
 ];
 
 

@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div>
       <h1>Blóm</h1>
-      <Image className="img" src="/flowers.jpg" width={200} height={200} alt="Blóm"/>
+      <Image className="img" src="/flowers.JPG" width={200} height={200} alt="Blóm"/>
     </div>
   )
 }
