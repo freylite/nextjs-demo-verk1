@@ -4,7 +4,8 @@ import Image from "next/image";
 export default function Home() {
   return (
     <div>
-      <Image className="img" src="/images.png" width={20000} height={20000} alt="jarvis"/>
+      <h1>Blóm</h1>
+      <Image className="img" src="/flowers.jpg" width={200} height={200} alt="Blóm"/>
     </div>
   )
 }
