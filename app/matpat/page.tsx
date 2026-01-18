@@ -4,7 +4,8 @@ import Image from "next/image";
 export default function Home() {
   return (
     <div>
-      <Image className="img" src="/mikupat.jpg" width={20000} height={20000} alt="matpat"/>
+      <h1>Matpat + Hatsune miku</h1>
+      <Image className="img" src="/mikupat.jpg" width={200} height={200} alt="matpat"/>
     </div>
   )
 }
